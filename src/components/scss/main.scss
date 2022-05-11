@@ -1,0 +1,422 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.Sidenabvar {
+    background-color: black;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 10px;
+    border-top: 10px;
+
+}
+
+.dashbord:hover {
+    color: #f78f32;
+    background-color: transparent;
+}
+
+.dashbord {
+    padding-bottom: 30px;
+}
+
+.enquiries {
+    padding-bottom: 30px;
+}
+
+.enquiries:hover {
+    color: #f78f32;
+    background-color: transparent;
+}
+
+.marketing {
+    padding-bottom: 30px;
+
+}
+
+.marketing:hover {
+    color: #f78f32;
+    background-color: transparent;
+}
+
+.clients {
+    padding-bottom: 30px;
+}
+
+.clients:hover {
+    color: #f78f32;
+    background-color: transparent;
+
+}
+
+.training {
+    padding-bottom: 30px;
+}
+
+.training:hover {
+    color: #f78f32;
+    background-color: transparent;
+
+}
+
+.staff {
+    padding-bottom: 30px;
+}
+
+.staff:hover {
+    cursor: pointer;
+    color: #f78f32;
+    background-color: transparent;
+
+}
+
+.report {
+    padding-bottom: 30px;
+}
+
+.report:hover {
+    color: #f78f32;
+    cursor: pointer;
+    background-color: transparent;
+
+}
+
+.setup {
+    padding-bottom: 30px;
+}
+
+.setup:hover {
+    color: #f78f32;
+    background-color: transparent;
+    cursor: pointer;
+
+}
+
+.dashbord-p {
+    margin-top: 10px;
+}
+
+.memeber {
+    margin: 18px auto;
+    border: 2px solid #D7D7D7;
+    text-align: center;
+    height: 35px;
+}
+
+
+.topnav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+
+.topnav-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topnav-right {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.Top-Icon {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 40px;
+}
+
+
+.dropdown {
+    margin-left: 100px;
+}
+
+.search-box {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.search {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    font-size: 12px;
+    border: solid 3px #D7D7D7 !important;
+    border: none;
+    height: 30px;
+    width: 350px;
+}
+
+.btn {
+    border: none;
+    padding: 10px 30px 10px 30px;
+    background-color: #3ac0f0;
+    color: white;
+    font-weight: 700;
+}
+
+
+.top-Header {
+    display: flex;
+    background-color: #F1F5F7;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.Right-header {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-left: 20px;
+
+}
+
+.Left-header {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding-right: 20px;
+}
+
+.top-main {
+    display: flex;
+    padding-top: 30px;
+}
+
+.buttom-main {
+    display: flex;
+    padding-top: 60px;
+}
+
+.div1 {
+    height: 80px;
+    width: 250px;
+    background-color: #3C91E6;
+    list-style-type: none;
+    color: white;
+    margin-left: 30px;
+    height: 120px;
+    text-align: center;
+    font-size: 17px;
+    line-height: 35px;
+}
+
+.div1 li {
+    list-style: none;
+}
+
+.div2 {
+    background-color: #9FD356;
+    color: white;
+    margin-left: 30px;
+    width: 250px;
+    height: 120px;
+    text-align: center;
+    list-style-type: none;
+    font-size: 17px;
+    line-height: 35px;
+}
+
+.div2 li {
+    list-style: none;
+}
+
+.div3 {
+    background-color: #F04B47;
+    color: white;
+    margin-left: 30px;
+    width: 250px;
+    height: 120px;
+    text-align: center;
+    list-style: none;
+    font-size: 17px;
+    line-height: 35px;
+}
+
+.div3 li {
+    list-style: none;
+}
+
+.dashbord-left {
+    background-color: #D7D7D7;
+    height: 55vh;
+    width: 60vw;
+    padding-top: 30px;
+    margin: 20px;
+}
+
+.btnn {
+    padding: 8px 10px 10px 10px;
+    margin-right: 70px;
+    background-color: #3ac0f0;
+    text-decoration: none;
+}
+
+.dropdown-main {
+    margin-left: 30px;
+    height: 30px;
+}
+
+.buttom-main2 {
+    display: flex;
+    margin-top: 25px;
+}
+
+.div4 {
+    height: 80px;
+    width: 250px;
+    background-color: white;
+    list-style-type: none;
+    color: black;
+    margin-left: 30px;
+    height: 120px;
+    text-align: center;
+    font-size: 17px;
+    line-height: 35px;
+}
+
+.div4 li {
+    list-style: none;
+
+}
+
+.border-bottom {
+    border-bottom: 2px solid #D7D7D7;
+}
+
+.div5 {
+    height: 80px;
+    width: 250px;
+    background-color: white;
+    list-style-type: none;
+    color: black;
+    margin-left: 30px;
+    height: 120px;
+    text-align: center;
+    font-size: 17px;
+    line-height: 35px;
+}
+
+.div5 li {
+    list-style: none;
+}
+
+.div6 {
+    height: 80px;
+    width: 250px;
+    background-color: white;
+    list-style-type: none;
+    color: black;
+    margin-left: 30px;
+    height: 120px;
+    text-align: center;
+    font-size: 17px;
+    line-height: 35px;
+}
+
+.div6 li {
+    list-style: none;
+}
+
+.dashbord-main {
+    display: flex;
+}
+
+.paylink {
+    width: 450px;
+    height: 35px;
+    background-color: #D7D7D7;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 35px;
+}
+
+.paylink:hover {
+    background-color: black;
+    cursor: pointer;
+    color: #3ac0f0;
+}
+
+.dashbord-right-table table { 
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 14px;
+}
+.dashbord-right-table table  tr td{
+    border: 2px solid whitesmoke;
+    text-align: left;
+    padding: 8px;
+}
+.dashbord-right-table th{
+   padding-top: 15px
+}
+.dashbord-right-table tr:nth-child(even) {
+    background-color: #dddddd;
+ }
+ .Classes{
+     margin-right: 30px;
+ }
+  .class1{
+      background-color: white;
+      height: 50px;
+      width: 150px;
+      margin-top: 60px;
+      margin-left: 10px;
+      text-align: center;
+      line-height: 50px;
+  }
+  .gym{
+    background-color: white;
+    height: 50px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+    line-height: 50px;
+  }
+  .dashboard-footer{
+      background:#dddddd;
+      display: flex;
+      height: 100vh; 
+  }
+
+.RESERVATIONS{
+ margin-right: 100px;
+}
+.BOOKINGS{
+    margin-right: 100px;
+}
+.CANCELLATIONS{
+    margin-right: 30px;
+}
+.same{
+    background-color: white;
+    height: 50px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.views{
+    display: block;
+}
+.view{
+    margin-top: 40px;
+}
