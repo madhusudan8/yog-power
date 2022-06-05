@@ -13,19 +13,8 @@ function Topheader() {
         <div>
           &nbsp;  Dashboard
         </div>
-
       </div>
-
       <div className='Left-header'>
-        <div>
-          Snapshot
-        </div>
-        <div>
-          &nbsp;&nbsp; Follow-ups
-        </div>
-        <div>
-          &nbsp;  Leaderboards
-        </div>
       </div>
     </div>
   )
